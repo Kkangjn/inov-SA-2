@@ -17,7 +17,7 @@
     <tbody>
         <tr>
             <td><img width="200" src="사진링크" /> </td>
-            <td><img width="200" src="팀원2" /></td>
+            <td><img width="200" src="테스트" /></td>
             <td><img width="200" src="팀원3" /></td>
             <td><img width="200" src="팀원4" /></td>
             <td><img width="200" src="팀원5" /></td>
