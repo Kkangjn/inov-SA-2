@@ -16,11 +16,11 @@
     </thead>
     <tbody>
         <tr>
-            <td><img width="200" src="사진링크" /> </td>
-            <td><img width="200" src="테스트2" /></td>
-            <td><img width="200" src="팀원3" /></td>
-            <td><img width="200" src="팀원4" /></td>
-            <td><img width="200" src="팀원5" /></td>
+            <td><img width="200" src="http://img.marieclairekorea.com/2017/01/mck_586f4006b4e9f-375x375.jpg" /> </td>
+            <td><img width="200" src="http://img.marieclairekorea.com/2017/01/mck_586f3a834b707-375x375.jpg" /></td>
+            <td><img width="200" src="http://img.marieclairekorea.com/2017/01/mck_586f404146910-375x375.jpg" /></td>
+            <td><img width="200" src="http://img.marieclairekorea.com/2017/01/mck_586f40328a086-375x375.jpg" /></td>
+            <td><img width="200" src="http://img.marieclairekorea.com/2017/01/mck_586f402a95859-375x375.jpg" /></td>
         </tr>
         <tr>
             <td><a href="각자 깃허브 주소">@깃허브 아이디</a></td>
