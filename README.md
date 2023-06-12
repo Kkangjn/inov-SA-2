@@ -36,5 +36,12 @@
             <td width="200">팀원4</td>
             <td width="200">팀원5</td>
         </tr>
+        <tr>
+            <td width="200">1</td>
+            <td width="200">2</td>
+            <td width="200">3</td>
+            <td width="200">4</td>
+            <td width="200">5</td>
+        </tr>
     </tbody>
 </table>
