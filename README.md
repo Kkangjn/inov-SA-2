@@ -9,7 +9,7 @@
         <tr >
             <th style="text-align:center;" >박정환</th>
             <th style="text-align:center;" >강영준</th>
-            <th style="text-align:center;" >팀원3</th>
+            <th style="text-align:center;" >안종현</th>
             <th style="text-align:center;" >팀원4</th>
             <th style="text-align:center;" >팀원5</th>
         </tr>
