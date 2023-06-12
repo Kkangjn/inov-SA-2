@@ -27,7 +27,7 @@
             <td><a href="팀원2">@팀원2</a></td>
             <td><a href="팀원3">@팀원3</a></td>
             <td><a href="팀원4">@팀원4</a></td>
-            <td><a href="팀원4">@팀원5</a></td>
+            <td><a href="팀원4">dkswhdgus103@gmail.com</a></td>
         </tr>
         <tr>
             <td width="200">다짐을 적어주세요 여러분</td>
