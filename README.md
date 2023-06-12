@@ -16,7 +16,7 @@
     </thead>
     <tbody>
         <tr>
-            <td><img width="200" src="테스트2" /> </td>
+            <td><img width="200" src="테스트3" /> </td>
             <td><img width="200" src="http://img.marieclairekorea.com/2017/01/mck_586f3a834b707-375x375.jpg" /></td>
             <td><img width="200" src="http://img.marieclairekorea.com/2017/01/mck_586f404146910-375x375.jpg" /></td>
             <td><img width="200" src="http://img.marieclairekorea.com/2017/01/mck_586f40328a086-375x375.jpg" /></td>
